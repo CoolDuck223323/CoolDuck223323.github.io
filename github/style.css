@@ -1,0 +1,14 @@
+.header {
+  font-size: 20px;
+  line-height: 1.5;
+}
+.header span {
+  display: block;
+}
+.container,
+.col-lg-6 {
+}
+.form-header {
+  font-size: 20px;
+  margin-left: 120px;
+}
